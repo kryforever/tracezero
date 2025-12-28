@@ -1,6 +1,7 @@
 # TraceZero - Kry LLC
 
 **TraceZero** is a high-performance Windows privacy and system sanitization suite designed with a premium aesthetic and advanced anti-forensic capabilities. It provides a centralized hub for users to manage their digital footprint, secure sensitive data, and optimize system performance.
+***🔴Looking for download go to the Branches Tab the Download the Newst One🔴***
 
 ---
 
